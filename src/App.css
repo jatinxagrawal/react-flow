@@ -1,0 +1,38 @@
+.main {
+  display: flex;
+  
+}
+
+.button {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  border: 1px solid blue;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  width: 80px;
+}
+
+#file-input {
+  display: none;
+}
+
+.labelLoad {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  border: 1px solid blue;
+  border-radius: 10px;
+  width: 80px;
+  text-align: center;
+}
+
+.form {
+  margin-top: 10px;
+}
